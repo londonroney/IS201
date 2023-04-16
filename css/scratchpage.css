@@ -1,0 +1,63 @@
+p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.top{
+  font-size: 40px;
+}
+
+.emphasizedText{
+  font-style: italic;
+}
+
+body{
+  background-color:whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: black;
+  border: 1px solid black;
+  margin: 50px;
+  padding: 50px;
+  text-align: left;
+}
+
+ol{
+  list-style-position: inside;
+}
+
+ul{
+  list-style-position: inside;
+  font-size:larger;
+  font-weight: bold;
+}
+
+.headers{
+  text-decoration:underline;
+  font-size: large;
+}
+
+.acc{
+  text-decoration:underline;
+  font-size: large;
+  text-align: left;
+}
+
+.ska{
+  text-align: left;
+}
+
+.about{
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.like{
+  font-size: larger;
+  font-weight:bold
+}
+
+.link{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
